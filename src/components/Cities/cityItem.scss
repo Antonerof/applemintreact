@@ -1,0 +1,8 @@
+.cityItem {
+    $block: &;
+
+    & &__cell {
+        padding: 0.2rem 0.3rem;
+        vertical-align: middle;
+    }
+}
